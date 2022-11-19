@@ -20,12 +20,12 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CollectionBuilder-GH 
+title: Academy for Women Entrepreneurs - Manila
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a template for creating simple digital exhibits
+tagline: Empowering women worldwide to fulfill their economic potential
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
+description: "The Academy for Women Entrepreneurs (AWE) aims to empower women to stir up their economic potential by providing them with quality training sessions facilitated by experts in the field of marketing, entrepreneurship, and business development. Moreover, AWE provides women entrepreneurs with important resources, networks, and mentorship opportunities for them to successfully navigate the business world. Upon completion of the program, participants are expected to come up with a sound business plan, strategies for implementation, and most importantly, lead a successful business with the right and positive entrepreneurial attitude"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: CollectionBuilder
 
